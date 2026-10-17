@@ -13,7 +13,7 @@ A software-as-a-service platform for business users, providing a subscription-st
 - Subscription-oriented structure for different user groups
 - A responsive experience on mobile and desktop
 
-This page is a general, anonymous summary only. It deliberately contains no client name, domain, business data, process detail, or other confidential information.
+This page is a general, anonymous summary only. Client data, business details, and confidential information are not included on this page.
 
 ## Why the code is not published
 
